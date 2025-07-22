@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheStayover",
+			"Path": "..\\Source\\TheStayover.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheStayoverEditor",
+			"Path": "..\\Source\\TheStayoverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

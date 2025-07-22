@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal engine projects\\the stayover\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\thestayover\\module.thestayover.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine projects\\the stayover\\intermediate\\build\\win64\\x64\\thestayover\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "d:\\unreal engine projects\\the stayover\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\thestayover\\definitions.thestayover.h",
+            "d:\\unreal engine projects\\the stayover\\intermediate\\source\\thestayover.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

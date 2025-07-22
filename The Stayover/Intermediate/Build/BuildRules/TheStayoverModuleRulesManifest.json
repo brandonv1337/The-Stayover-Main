@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine Projects\\The Stayover - 2025\\The Stayover\\Source\\TheStayover\\TheStayover.Build.cs",
+		"D:\\Unreal Engine Projects\\The Stayover - 2025\\The Stayover\\Source\\TheStayover.Target.cs",
+		"D:\\Unreal Engine Projects\\The Stayover - 2025\\The Stayover\\Source\\TheStayoverEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
