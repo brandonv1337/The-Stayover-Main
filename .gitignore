@@ -47,20 +47,21 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
-# Binary Files
-Binaries/*
-Plugins/**/Binaries/*
+# Binary Files (patterns with a mid-slash are root-anchored, so use **/ to
+# reach the project folder "The Stayover/")
+**/Binaries/
+**/Plugins/**/Binaries/
 
 # Builds
-Build/*
+**/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!**/Build/*/
+**/Build/*/**
+!**/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!**/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -69,9 +70,16 @@ Build/*/**
 Saved/
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/**/Intermediate/*
+**/Intermediate/
+**/Plugins/**/Intermediate/
 
 # Cache files for the editor to use
-DerivedDataCache/*
-The Stayover/pack-0a28b8c824127d630a20b534dba6a6e1a3e55104-003.pack
+**/DerivedDataCache/
+
+# Editor autosaves / stray git packfiles copied into the project
+Backup/
+*.pack
+
+# Local crash dumps and IDE caches
+.vsconfig
+

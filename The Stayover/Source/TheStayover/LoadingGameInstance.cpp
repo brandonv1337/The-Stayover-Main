@@ -13,13 +13,19 @@ void ULoadingGameInstance::Init()
 
 void ULoadingGameInstance::BeginLoadingScreen(const FString& InMapName)
 {
-	FLoadingScreenAttributes LoadingScreen;
-	LoadingScreen.bAutoCompleteWhenLoadingCompletes = false;
+	
+	if (!GetMoviePlayer()->IsMovieCurrentlyPlaying())
+	{
+		FLoadingScreenAttributes LoadingScreen;
+		LoadingScreen.bAutoCompleteWhenLoadingCompletes = false;
 
-	UUserWidget* Widget = CreateWidget<UUserWidget>(GetWorld(), LoadingScreenWidget);
-	LoadingScreen.WidgetLoadingScreen = Widget->TakeWidget();
+		UUserWidget* Widget = CreateWidget<UUserWidget>(GetWorld(), LoadingScreenWidget);
+		LoadingScreen.WidgetLoadingScreen = Widget->TakeWidget();
 
-	GetMoviePlayer()->SetupLoadingScreen(LoadingScreen);
+		GetMoviePlayer()->SetupLoadingScreen(LoadingScreen);
+	}
+	
+	
 }
 
 void ULoadingGameInstance::EndLoadingScreen(UWorld* InLoadedWorld)

@@ -1,0 +1,27 @@
+ - 669CAFF942D0FACB710844B6F2BF9C9B 
+	/Game/UI/MainMenu/WB_PlayConfirmMainMenu.WB_PlayConfirmMainMenu_C:GetText_1 [Script Bytecode] - "Low" 
+	/Game/UI/MainMenu/WB_PlayMainMenu.WB_PlayMainMenu_C:GetText [Script Bytecode] - "Easy" 
+	/Game/UI/GamePlay/WB_OptionsMenuGame.WB_OptionsMenuGame_C:GetText_1 [Script Bytecode] - "Low" 
+	/Game/UI/GamePlay/WB_ResumeGameMenu.WB_ResumeGameMenu_C:GetText_1 [Script Bytecode] - "Low" 
+	/Game/UI/GamePlay/WB_NotesGameMenu.WB_NotesGameMenu_C:GetText_1 [Script Bytecode] - "Low" 
+	/Game/UI/GamePlay/WB_QuitGame.WB_QuitGame_C:GetText_1 [Script Bytecode] - "Low" 
+	/Game/UI/MainMenu/WB_OptionsMainMenu.WB_OptionsMainMenu_C:GetText_1 [Script Bytecode] - "Low" 
+
+ - FBD99ED04B272C7A0688C2BA4A7C5EB4 
+	/Game/UI/MainMenu/WB_PlayConfirmMainMenu.WB_PlayConfirmMainMenu_C:GetText_1 [Script Bytecode] - "Medium" 
+	/Game/UI/MainMenu/WB_PlayMainMenu.WB_PlayMainMenu_C:GetText [Script Bytecode] - "Regular" 
+	/Game/UI/GamePlay/WB_OptionsMenuGame.WB_OptionsMenuGame_C:GetText_1 [Script Bytecode] - "Medium" 
+	/Game/UI/GamePlay/WB_ResumeGameMenu.WB_ResumeGameMenu_C:GetText_1 [Script Bytecode] - "Medium" 
+	/Game/UI/GamePlay/WB_NotesGameMenu.WB_NotesGameMenu_C:GetText_1 [Script Bytecode] - "Medium" 
+	/Game/UI/GamePlay/WB_QuitGame.WB_QuitGame_C:GetText_1 [Script Bytecode] - "Medium" 
+	/Game/UI/MainMenu/WB_OptionsMainMenu.WB_OptionsMainMenu_C:GetText_1 [Script Bytecode] - "Medium" 
+
+ - DA08E04A43821F8C570607A799F608E2 
+	/Game/UI/MainMenu/WB_PlayConfirmMainMenu.WB_PlayConfirmMainMenu_C:GetText_1 [Script Bytecode] - "High" 
+	/Game/UI/MainMenu/WB_PlayMainMenu.WB_PlayMainMenu_C:GetText [Script Bytecode] - "Veteran" 
+	/Game/UI/GamePlay/WB_OptionsMenuGame.WB_OptionsMenuGame_C:GetText_1 [Script Bytecode] - "High" 
+	/Game/UI/GamePlay/WB_ResumeGameMenu.WB_ResumeGameMenu_C:GetText_1 [Script Bytecode] - "High" 
+	/Game/UI/GamePlay/WB_NotesGameMenu.WB_NotesGameMenu_C:GetText_1 [Script Bytecode] - "High" 
+	/Game/UI/GamePlay/WB_QuitGame.WB_QuitGame_C:GetText_1 [Script Bytecode] - "High" 
+	/Game/UI/MainMenu/WB_OptionsMainMenu.WB_OptionsMainMenu_C:GetText_1 [Script Bytecode] - "High" 
+
