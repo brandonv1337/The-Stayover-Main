@@ -1,0 +1,89 @@
+﻿---,Speaker,Text,Sound,Source,Act,Once,Duration,Pool
+K_S00_WHISPER,Kidnapper,This isn't a game.,None,Ear,0,True,0,None
+E_S00_KEEPIT,Elias,Keep it together. You're better than this.,None,None,0,True,0,None
+K_S00_CHAMP,Kidnapper,"Hey, champ. How's it going?",None,Phone,0,True,0,None
+E_S00_WHO,Elias,Who is this?,None,None,0,True,0,None
+K_S00_SAFE,Kidnapper,Shh. Don't worry about that. Your son's safe with me.,None,Phone,0,True,0,None
+E_S00_FRIENDS,Elias,David's at a friend's. I dropped him—,None,None,0,True,0,None
+K_S00_LOOKBACK,Kidnapper,You did. Did you look back?,None,Phone,0,True,0,None
+C_S00_SCREAM,Child,[gunshot — a child screams],None,Phone,0,True,0,None
+E_S00_DAVID,Elias,David— DAVID—,None,None,0,True,0,None
+K_S00_GREAT,Kidnapper,"Great. Now you're listening. You'll get a text with an address. Don't call anyone, Elias. If you do — pow.",None,Phone,0,True,0,None
+E_S01_FLOOR,Elias,The floor. Why am I on the floor.,None,None,0,True,0,None
+E_S01_TWOLEFT,Elias,Two left.,None,None,0,True,0,None
+E_S01_STUCK,Elias,Stuck. Always has been.,None,None,0,True,0,None
+E_S01_PIPES,Elias,Pipes.,None,None,0,True,0,None
+E_S01_DROPPED,Elias,I dropped it.,None,None,0,True,0,None
+E_S01_LOCKED,Elias,Locked. From the outside.,None,None,0,True,0,None
+E_S02_ADDRESS,Elias,That's the house. That's… why would he bring him here?,None,None,1,True,0,None
+K_S03_WELCOME,Kidnapper,"Welcome! You made it. I know this is confusing, but bear with me — it'll all make sense. The side door's open. Well. It will be. Don't get scared, don't be afraid. After all, you're not alone.",None,Megaphone,1,True,0,None
+E_S03_FAMILIAR,Elias,This looks familiar.,None,None,1,True,0,None
+E_S03_FROMWHERE,Elias,I don't know from where.,None,None,1,True,0,None
+K_S03_OKAY,Kidnapper,"Don't worry about it, Elias. You'll be okay.",None,Megaphone,1,True,0,None
+E_S03_REMEMBER,Elias,It isn't how I remember it.,None,None,1,True,0,None
+K_S03_MEMORIES,Kidnapper,"Memories change, don't they?",None,Megaphone,1,True,0,None
+K_S03_INSIDEVOICES,Kidnapper,Good. Now — inside voices.,None,Megaphone,1,True,0,None
+E_S04_NAILED,Elias,Nailed from in here.,None,None,2,True,0,None
+E_S04_PAPER1,Elias,"""Family missing."" ""Last seen at a friend's house.""",None,None,2,True,0,None
+E_S04_PAPER2,Elias,Same. Different year.,None,None,2,True,0,None
+E_S04_PAPER3,Elias,"""—wife and son. Husband—""",None,None,2,True,0,None
+K_S04_NOTALONE,Kidnapper,"You're not alone in here, Elias.",None,Radio,2,True,0,None
+E_S04_TOGETHER,Elias,Keep it together.,None,None,2,True,0,None
+K_S04_WHOLETIME,Kidnapper,I've been with you the whole time.,None,Radio,2,True,0,None
+K_S04_CHECKIN,Kidnapper,Just checking in. How are you holding up?,None,HallPhone,2,True,0,None
+K_S04_GOOD,Kidnapper,That's good. That's really good.,None,HallPhone,2,True,0,None
+E_S05_CARD,Elias,"""Happy ninth, champ.""",None,None,2,True,0,None
+E_S06_COMEON,Elias,Come on. Come on—,None,None,3,True,0,None
+K_S06_LIGHT,Kidnapper,Why do you need the light? You already know what's here.,None,Ear,3,True,0,None
+C_S06_LETGO,Child,"Please… please, let me go.",None,Tape,3,True,0,None
+C_S06_HOME,Child,I want to go home.,None,Tape,3,True,0,None
+C_S06_SCREAM,Child,[gunshot — a child screams],None,Tape,3,True,0,None
+E_S06_TONIGHT,Elias,That was on the phone. That was— that was tonight—,None,None,3,True,0,None
+K_S06_KNOW,Kidnapper,You know exactly what this is.,None,Ear,3,True,0,None
+E_S06_NOTHIM,Elias,It's not him.,None,None,3,True,0,None
+K_S06_NOTHIM,Kidnapper,No. Not him.,None,Ear,3,True,0,None
+E_S07_CHAIR,Elias,That's my chair.,None,None,4,True,0,None
+E_S07_MINE,Elias,Mine.,None,None,4,True,0,None
+E_S07_NUMBER,Elias,That's my number.,None,None,4,True,0,None
+K_S07_WHOCALLING,Kidnapper,"Then who's been calling you, Elias?",None,Mind,4,True,0,None
+E_S07_SAWIT,Elias,It was right there. It was— I saw it—,None,None,4,True,0,None
+K_S07_WASIT,Kidnapper,Was it?,None,Mind,4,True,0,None
+K_S08_NEVER,Kidnapper,You've never been down here.,None,Mind,4,True,0,None
+E_S08_NO,Elias,No.,None,None,4,True,0,None
+K_S08_IHAVE,Kidnapper,I have.,None,Mind,4,True,0,None
+S_S09_HELLO,Survivor,"Hello? Is someone — please. Please, I can hear you. He's coming back.",None,Door,4,True,0,None
+E_S09_HOLDON,Elias,"Hold on. Hold on, I'll—",None,None,4,True,0,None
+K_S09_NOTYET,Kidnapper,Not yet. Up first.,None,Mind,4,True,0,None
+TV_S10_CHAMP,TV,"Hey, champ. How's it going?",None,TV,5,True,0,None
+E_S10_NO,Elias,"No. No, no—",None,None,5,True,0,None
+TV_S10_SAFE,TV,Shh. Don't worry about that. Your son's safe with me.,None,TV,5,True,0,None
+K_S10_TAKEHIM,Kidnapper,"She was going to take him, Elias. What else could we do?",None,Mind,5,True,0,None
+E_S10_DIDNT,Elias,I didn't—,None,None,5,True,0,None
+K_S10_WEDID,Kidnapper,We did.,None,Mind,5,True,0,None
+S_S11_THANKGOD,Survivor,"Oh God — oh, thank God — please, he's coming back, he'll — get me out. Get me out.",None,World,5,True,0,None
+S_S11_GETYOU,Survivor,"Did he get you too? Your kid — he said he had a kid, he kept saying—",None,World,5,True,0,None
+E_S11_SEENOW,Elias,I see now.,None,None,5,True,0,None
+E_S11_LAUGH,Elias,[Elias laughs],None,Mind,5,True,0,None
+S_S11_THATSHIM,Survivor,"No. No, that's — that's him. You're — you told me you had a son. You told me you had a son—",None,World,5,True,0,None
+K_P1_TAKETIME,Kidnapper,Take your time. He's not going anywhere.,None,Megaphone,1,True,0,Yard
+K_P1_OTHERLEFT,Kidnapper,Left. No — your other left.,None,Megaphone,1,True,0,Yard
+K_P1_SOWELL,Kidnapper,You're doing so well.,None,Megaphone,1,True,0,Yard
+K_P1_COAT,Kidnapper,Cold out. You should've brought a coat.,None,Megaphone,1,True,0,Yard
+K_P2_EVERYROOM,Kidnapper,"Every room, Elias. Don't skip any.",None,Radio,2,True,0,House
+K_P2_HOUSELIKE,Kidnapper,You used to have a house like this. Didn't you.,None,Radio,2,True,0,House
+K_P2_READTHEM,Kidnapper,Read them. Read all of them.,None,Radio,2,True,0,House
+K_P2_ALMOST,Kidnapper,Almost. Almost.,None,Radio,2,True,0,House
+K_P3_BREATHE,Kidnapper,Breathe.,None,Ear,3,True,0,Basement
+K_P3_DARK,Kidnapper,It's just dark. You've been in the dark before.,None,Ear,3,True,0,Basement
+K_P3_STEP,Kidnapper,Don't step there.,None,Ear,3,True,0,Basement
+K_P3_RIGHTHERE,Kidnapper,I'm right here.,None,Ear,3,True,0,Basement
+K_EP_JUSTUS,Kidnapper,Don't run. It's just us.,None,Ear,-1,True,0,Episode
+K_EP_HIDE,Kidnapper,Hide if you want. I know the house.,None,Ear,-1,True,0,Episode
+K_EP_NOTREAL,Kidnapper,He can't hurt you. He's not real. Neither am I.,None,Ear,-1,True,0,Episode
+K_BO_WELCOME,Kidnapper,Welcome back.,None,Ear,-1,True,0,Blackout
+K_BO_TIDIED,Kidnapper,You were gone a while. I tidied up.,None,Ear,-1,True,0,Blackout
+K_BO_SLEEP,Kidnapper,Did you sleep? You looked like you needed it.,None,Ear,-1,True,0,Blackout
+K_BO_MOVED,Kidnapper,I moved some things. You'll find them.,None,Ear,-1,True,0,Blackout
+S_DOOR_DONTLEAVE,Survivor,Are you still there? Don't leave. Don't leave.,None,Door,4,True,0,SurvivorDoor
+S_DOOR_HISKID,Survivor,He talks about his kid. The whole time. The whole time.,None,Door,4,True,0,SurvivorDoor
+S_DOOR_DAUGHTER,Survivor,I have a daughter. Please. I have a daughter.,None,Door,4,True,0,SurvivorDoor
